@@ -4,8 +4,6 @@ A production-ready, highly available web application demonstrating AWS best prac
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white) ![Architecture](https://img.shields.io/badge/Architecture-2--Tier-green) ![RDS](https://img.shields.io/badge/Database-MySQL-blue) ![LoadBalancer](https://img.shields.io/badge/LoadBalancer-ALB-orange)
 
-![Uptime](https://img.shields.io/badge/Uptime-99.99%25-brightgreen) ![Response Time](https://img.shields.io/badge/Response%20Time-<200ms-green) ![Scalability](https://img.shields.io/badge/Scalability-2--6%20instances-blue) ![Cost Optimized](https://img.shields.io/badge/Cost-$50--100%2Fmonth-orange) ![Security](https://img.shields.io/badge/Security-IAM%20%2B%20VPC-red)
-
 ## 📑 Table of Contents
 
 • [Overview](#-overview)  
